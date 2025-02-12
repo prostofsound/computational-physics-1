@@ -56,11 +56,11 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 
 5. Let us know create a new environment with:<br>
 ~~~~html
-  $ conda create -n py37 python=3.7
+  $ conda create -n py11 python=3.11.11
   $ conda env list
   conda environments:
   base                  *  /Users/webb/opt/anaconda3
-  py37                     /Users/webb/opt/anaconda3/envs/py37
+  py11                     /Users/webb/opt/anaconda3/envs/py11
 ~~~~
 
 6. Now, we activate the environment:<br>
