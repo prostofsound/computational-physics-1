@@ -1,6 +1,6 @@
 # Computational Physics I 
 
-## Yachay Tech University - 2024
+## Yachay Tech University - 2025
 
 ## About this repository:
 This is a collection of lecture notes and programming exercises carried out as part of the Computational Physics 1 course at Yachay Tech University.
@@ -67,7 +67,7 @@ This course provides an introduction to basic methods and techniques used in com
 
 The full course syllabus can be found here:
 
-https://github.com/wbandabarragan/computational-physics-1/blob/main/SYL_ECFN1015_Fisica%20Computacional%20I_ing.pdf
+https://github.com/wbandabarragan/computational-physics-1/blob/main/CP1_Syllabus_Ing_ISEM2025_fisica.pdf
 
 
 ## Evaluation:
@@ -76,7 +76,7 @@ Evaluation has 4 components, with weights distributed as follows:
 
 **1. Formative Evaluation (2 Homework):** 20%
 
-**2. Laboratory (2 Classwork):** 20%
+**2. Laboratory (at least 4 Quizzes):** 20%
 
 **3. 1 Midterm Exam:** 30%
 
@@ -100,9 +100,9 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Tuesdays: 14:00 - 15:00
+- On Tuesdays: 10:00 - 11:00
 
-- On Wednesdays: 15:00 - 16:00
+- On Thursdays: 15:00 - 16:00 
 
 
 ## On academic integrity:
@@ -120,4 +120,11 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 
 ## Acknowledgements:
 
-I would like to thank my former student and teaching assistant, Gabriel Balarezo (https://github.com/GabrielBJ), for his valuable support and help in tutoring this course during the first semester of 2024.
+I would like to thank my former students and teaching assistants, Gabriel Balarezo (https://github.com/GabrielBJ) and Yorlan Males (https://github.com/whyyorlantaken), for their valuable support and help in tutoring this course in 2024.
+
+## Useful repositories: 
+
+- Data repository: https://github.com/wbandabarragan/physics-teaching-data
+
+- Archived versions of the CP2 course taught in previous semesters: https://github.com/wbandabarragan/computational-physics-1-arxiv
+
